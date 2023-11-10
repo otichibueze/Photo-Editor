@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Photo Editor</string>
+    <string name="gallery">Gallery</string>
+    <string name="permission_to_save_your_image_denied">Permission to save your image denied</string>
+</resources>

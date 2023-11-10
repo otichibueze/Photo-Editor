@@ -1,0 +1,4 @@
+#Fri Nov 10 19:39:17 WAT 2023
+base.0=C\:\\Users\\user\\AndroidStudioProjects\\Photo Editor\\Photo Editor\\task\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

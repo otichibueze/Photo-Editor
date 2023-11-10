@@ -1,0 +1,70 @@
+TCalled loadFromPath(/system/framework/framework-res.apk, true); mode=binary sdk=29
+¿resources.arsc in APK 'C:\Users\user\.m2\repository\org\robolectric\android-all-instrumented\10-robolectric-5803371-i3\android-all-instrumented-10-robolectric-5803371-i3.jar' is compressed.
+< running on thread DefaultDispatcher-worker-2 @coroutine#2
+< running on thread DefaultDispatcher-worker-1 @coroutine#1
+4Updating on thread SDK 29 Main Thread @coroutine#2
+< running on thread DefaultDispatcher-worker-4 @coroutine#8
+< running on thread DefaultDispatcher-worker-1 @coroutine#9
+4Updating on thread SDK 29 Main Thread @coroutine#9
+
+TCalled loadFromPath(/system/framework/framework-res.apk, true); mode=binary sdk=29
+
+¿resources.arsc in APK 'C:\Users\user\.m2\repository\org\robolectric\android-all-instrumented\10-robolectric-5803371-i3\android-all-instrumented-10-robolectric-5803371-i3.jar' is compressed.
+= running on thread DefaultDispatcher-worker-1 @coroutine#15
+5Updating on thread SDK 29 Main Thread @coroutine#15
+= running on thread DefaultDispatcher-worker-1 @coroutine#20
+= running on thread DefaultDispatcher-worker-2 @coroutine#21
+= running on thread DefaultDispatcher-worker-4 @coroutine#23
+5Updating on thread SDK 29 Main Thread @coroutine#23
+= running on thread DefaultDispatcher-worker-3 @coroutine#29
+= running on thread DefaultDispatcher-worker-2 @coroutine#30
+= running on thread DefaultDispatcher-worker-5 @coroutine#32
+5Updating on thread SDK 29 Main Thread @coroutine#32
+= running on thread DefaultDispatcher-worker-3 @coroutine#38
+5Updating on thread SDK 29 Main Thread @coroutine#38
+ = running on thread DefaultDispatcher-worker-2 @coroutine#43
+ 5Updating on thread SDK 29 Main Thread @coroutine#43
+!= running on thread DefaultDispatcher-worker-5 @coroutine#48
+!= running on thread DefaultDispatcher-worker-6 @coroutine#49
+!= running on thread DefaultDispatcher-worker-4 @coroutine#51
+!= running on thread DefaultDispatcher-worker-3 @coroutine#54
+!= running on thread DefaultDispatcher-worker-5 @coroutine#55
+!= running on thread DefaultDispatcher-worker-2 @coroutine#57
+!5Updating on thread SDK 29 Main Thread @coroutine#57
+"= running on thread DefaultDispatcher-worker-8 @coroutine#63
+"= running on thread DefaultDispatcher-worker-7 @coroutine#64
+"= running on thread DefaultDispatcher-worker-4 @coroutine#66
+"= running on thread DefaultDispatcher-worker-8 @coroutine#70
+"5Updating on thread SDK 29 Main Thread @coroutine#70
+#= running on thread DefaultDispatcher-worker-6 @coroutine#75
+#= running on thread DefaultDispatcher-worker-3 @coroutine#77
+#= running on thread DefaultDispatcher-worker-5 @coroutine#78
+#= running on thread DefaultDispatcher-worker-2 @coroutine#80
+#5Updating on thread SDK 29 Main Thread @coroutine#80
+%$= running on thread DefaultDispatcher-worker-1 @coroutine#86
+%$5Updating on thread SDK 29 Main Thread @coroutine#86
+%&= running on thread DefaultDispatcher-worker-8 @coroutine#91
+%&5Updating on thread SDK 29 Main Thread @coroutine#91
+%'= running on thread DefaultDispatcher-worker-4 @coroutine#96
+%'5Updating on thread SDK 29 Main Thread @coroutine#96
+%(> running on thread DefaultDispatcher-worker-8 @coroutine#101
+%(6Updating on thread SDK 29 Main Thread @coroutine#101
+%)> running on thread DefaultDispatcher-worker-4 @coroutine#106
+%)> running on thread DefaultDispatcher-worker-2 @coroutine#107
+%)> running on thread DefaultDispatcher-worker-7 @coroutine#109
+%)> running on thread DefaultDispatcher-worker-2 @coroutine#111
+%)> running on thread DefaultDispatcher-worker-4 @coroutine#114
+%)> running on thread DefaultDispatcher-worker-2 @coroutine#116
+%)6Updating on thread SDK 29 Main Thread @coroutine#116
+%*> running on thread DefaultDispatcher-worker-5 @coroutine#121
+%*> running on thread DefaultDispatcher-worker-7 @coroutine#124
+%*> running on thread DefaultDispatcher-worker-6 @coroutine#125
+%*> running on thread DefaultDispatcher-worker-8 @coroutine#128
+%*6Updating on thread SDK 29 Main Thread @coroutine#128
+%+> running on thread DefaultDispatcher-worker-8 @coroutine#133
+%+> running on thread DefaultDispatcher-worker-4 @coroutine#134
+%+> running on thread DefaultDispatcher-worker-6 @coroutine#136
+%+> running on thread DefaultDispatcher-worker-4 @coroutine#138
+%+> running on thread DefaultDispatcher-worker-8 @coroutine#141
+%+> running on thread DefaultDispatcher-worker-1 @coroutine#143
+%+6Updating on thread SDK 29 Main Thread @coroutine#143

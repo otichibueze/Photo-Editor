@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.photoeditor.Stage6UnitTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2023-11-09T22:40:06" hostname="DESKTOP-S3OS6DJ" time="9.439">
+  <properties/>
+  <testcase name="test01_checkHighBrightnessValue" classname="org.hyperskill.photoeditor.Stage6UnitTest" time="1.322"/>
+  <testcase name="test02_checkSomeContrastValue" classname="org.hyperskill.photoeditor.Stage6UnitTest" time="1.337"/>
+  <testcase name="test03_checkSomeSaturationValue" classname="org.hyperskill.photoeditor.Stage6UnitTest" time="1.383"/>
+  <testcase name="test04_checkSomeGammaValue" classname="org.hyperskill.photoeditor.Stage6UnitTest" time="1.401"/>
+  <testcase name="test05_checkDefaultBitmapEdit" classname="org.hyperskill.photoeditor.Stage6UnitTest" time="1.322"/>
+  <testcase name="test06_checkDefaultBitmapEdit2" classname="org.hyperskill.photoeditor.Stage6UnitTest" time="1.337"/>
+  <testcase name="test07_checkDefaultBitmapEditWiderSample" classname="org.hyperskill.photoeditor.Stage6UnitTest" time="1.337"/>
+  <system-out><![CDATA[ running on thread DefaultDispatcher-worker-1 @coroutine#86
+Updating on thread SDK 29 Main Thread @coroutine#86
+ running on thread DefaultDispatcher-worker-8 @coroutine#91
+Updating on thread SDK 29 Main Thread @coroutine#91
+ running on thread DefaultDispatcher-worker-4 @coroutine#96
+Updating on thread SDK 29 Main Thread @coroutine#96
+ running on thread DefaultDispatcher-worker-8 @coroutine#101
+Updating on thread SDK 29 Main Thread @coroutine#101
+ running on thread DefaultDispatcher-worker-4 @coroutine#106
+ running on thread DefaultDispatcher-worker-2 @coroutine#107
+ running on thread DefaultDispatcher-worker-7 @coroutine#109
+ running on thread DefaultDispatcher-worker-2 @coroutine#111
+ running on thread DefaultDispatcher-worker-4 @coroutine#114
+ running on thread DefaultDispatcher-worker-2 @coroutine#116
+Updating on thread SDK 29 Main Thread @coroutine#116
+ running on thread DefaultDispatcher-worker-5 @coroutine#121
+ running on thread DefaultDispatcher-worker-7 @coroutine#124
+ running on thread DefaultDispatcher-worker-6 @coroutine#125
+ running on thread DefaultDispatcher-worker-8 @coroutine#128
+Updating on thread SDK 29 Main Thread @coroutine#128
+ running on thread DefaultDispatcher-worker-8 @coroutine#133
+ running on thread DefaultDispatcher-worker-4 @coroutine#134
+ running on thread DefaultDispatcher-worker-6 @coroutine#136
+ running on thread DefaultDispatcher-worker-4 @coroutine#138
+ running on thread DefaultDispatcher-worker-8 @coroutine#141
+ running on thread DefaultDispatcher-worker-1 @coroutine#143
+Updating on thread SDK 29 Main Thread @coroutine#143
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

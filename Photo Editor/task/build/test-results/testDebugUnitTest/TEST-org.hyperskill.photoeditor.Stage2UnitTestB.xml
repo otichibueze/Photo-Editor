@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.photoeditor.Stage2UnitTestB" tests="7" skipped="5" failures="0" errors="0" timestamp="2023-11-09T22:39:41" hostname="DESKTOP-S3OS6DJ" time="12.295">
+  <properties/>
+  <testcase name="test01_checkImageView" classname="org.hyperskill.photoeditor.Stage2UnitTestB" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test02_checkButtonGallery" classname="org.hyperskill.photoeditor.Stage2UnitTestB" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test03_checkSliderBrightness" classname="org.hyperskill.photoeditor.Stage2UnitTestB" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test04_checkSliderNotCrashing" classname="org.hyperskill.photoeditor.Stage2UnitTestB" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test05_checkDefaultBitmapEdit" classname="org.hyperskill.photoeditor.Stage2UnitTestB" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test06_checkLoadedBitmapEdit" classname="org.hyperskill.photoeditor.Stage2UnitTestB" time="11.105"/>
+  <testcase name="test07_checkDefaultBitmapEditExhaustive" classname="org.hyperskill.photoeditor.Stage2UnitTestB" time="1.187"/>
+  <system-out><![CDATA[Called loadFromPath(/system/framework/framework-res.apk, true); mode=binary sdk=29
+resources.arsc in APK 'C:\Users\user\.m2\repository\org\robolectric\android-all-instrumented\10-robolectric-5803371-i3\android-all-instrumented-10-robolectric-5803371-i3.jar' is compressed.
+ running on thread DefaultDispatcher-worker-2 @coroutine#2
+ running on thread DefaultDispatcher-worker-1 @coroutine#1
+Updating on thread SDK 29 Main Thread @coroutine#2
+ running on thread DefaultDispatcher-worker-4 @coroutine#8
+ running on thread DefaultDispatcher-worker-1 @coroutine#9
+Updating on thread SDK 29 Main Thread @coroutine#9
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.photoeditor.Stage5UnitTestB" tests="11" skipped="6" failures="0" errors="0" timestamp="2023-11-09T22:40:02" hostname="DESKTOP-S3OS6DJ" time="3.791">
+  <properties/>
+  <testcase name="test01_checkSliderSaturation" classname="org.hyperskill.photoeditor.Stage5UnitTestB" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test02_checkSliderGamma" classname="org.hyperskill.photoeditor.Stage5UnitTestB" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test03_checkSliderSaturationNotCrashingByDefault" classname="org.hyperskill.photoeditor.Stage5UnitTestB" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test04_checkSliderGammaNotCrashingByDefault" classname="org.hyperskill.photoeditor.Stage5UnitTestB" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test05_checkSaturationOnlyWithHints" classname="org.hyperskill.photoeditor.Stage5UnitTestB" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test06_checkSaturationOnlyWithoutHints" classname="org.hyperskill.photoeditor.Stage5UnitTestB" time="0.796"/>
+  <testcase name="test07_checkGammaOnlyWithHints" classname="org.hyperskill.photoeditor.Stage5UnitTestB" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test08_checkGammaOnlyWithoutHints" classname="org.hyperskill.photoeditor.Stage5UnitTestB" time="0.798"/>
+  <testcase name="test09_checkFiltersAppliedInOrder" classname="org.hyperskill.photoeditor.Stage5UnitTestB" time="0.737"/>
+  <testcase name="test10_checkFiltersAppliedInReverseOrder" classname="org.hyperskill.photoeditor.Stage5UnitTestB" time="0.732"/>
+  <testcase name="test11_checkFiltersAppliedInReverseOrderWiderSample" classname="org.hyperskill.photoeditor.Stage5UnitTestB" time="0.728"/>
+  <system-out><![CDATA[ running on thread DefaultDispatcher-worker-3 @coroutine#38
+Updating on thread SDK 29 Main Thread @coroutine#38
+ running on thread DefaultDispatcher-worker-2 @coroutine#43
+Updating on thread SDK 29 Main Thread @coroutine#43
+ running on thread DefaultDispatcher-worker-5 @coroutine#48
+ running on thread DefaultDispatcher-worker-6 @coroutine#49
+ running on thread DefaultDispatcher-worker-4 @coroutine#51
+ running on thread DefaultDispatcher-worker-3 @coroutine#54
+ running on thread DefaultDispatcher-worker-5 @coroutine#55
+ running on thread DefaultDispatcher-worker-2 @coroutine#57
+Updating on thread SDK 29 Main Thread @coroutine#57
+ running on thread DefaultDispatcher-worker-8 @coroutine#63
+ running on thread DefaultDispatcher-worker-7 @coroutine#64
+ running on thread DefaultDispatcher-worker-4 @coroutine#66
+ running on thread DefaultDispatcher-worker-8 @coroutine#70
+Updating on thread SDK 29 Main Thread @coroutine#70
+ running on thread DefaultDispatcher-worker-6 @coroutine#75
+ running on thread DefaultDispatcher-worker-3 @coroutine#77
+ running on thread DefaultDispatcher-worker-5 @coroutine#78
+ running on thread DefaultDispatcher-worker-2 @coroutine#80
+Updating on thread SDK 29 Main Thread @coroutine#80
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

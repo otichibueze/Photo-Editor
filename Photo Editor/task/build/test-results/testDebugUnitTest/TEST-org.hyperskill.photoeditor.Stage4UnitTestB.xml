@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.photoeditor.Stage4UnitTestB" tests="9" skipped="6" failures="0" errors="0" timestamp="2023-11-09T22:39:59" hostname="DESKTOP-S3OS6DJ" time="2.529">
+  <properties/>
+  <testcase name="test01_checkSliderContrast" classname="org.hyperskill.photoeditor.Stage4UnitTestB" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test02_checkSliderContrastNotCrashingByDefault" classname="org.hyperskill.photoeditor.Stage4UnitTestB" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="test03_checkContrastOnlyWithHint" classname="org.hyperskill.photoeditor.Stage4UnitTestB" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test04_checkContrastOnlyWithoutHint" classname="org.hyperskill.photoeditor.Stage4UnitTestB" time="0.874"/>
+  <testcase name="test05_checkBrightnessBeforeContrastWithHint" classname="org.hyperskill.photoeditor.Stage4UnitTestB" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test06_checkBrightnessBeforeContrastWithoutHint" classname="org.hyperskill.photoeditor.Stage4UnitTestB" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test07_checkBrightnessBeforeContrastWiderSample" classname="org.hyperskill.photoeditor.Stage4UnitTestB" time="0.809"/>
+  <testcase name="test08_checkContrastBeforeBrightnessWithHint" classname="org.hyperskill.photoeditor.Stage4UnitTestB" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test09_checkContrastBeforeBrightnessWithoutHint" classname="org.hyperskill.photoeditor.Stage4UnitTestB" time="0.843"/>
+  <system-out><![CDATA[ running on thread DefaultDispatcher-worker-1 @coroutine#15
+Updating on thread SDK 29 Main Thread @coroutine#15
+ running on thread DefaultDispatcher-worker-1 @coroutine#20
+ running on thread DefaultDispatcher-worker-2 @coroutine#21
+ running on thread DefaultDispatcher-worker-4 @coroutine#23
+Updating on thread SDK 29 Main Thread @coroutine#23
+ running on thread DefaultDispatcher-worker-3 @coroutine#29
+ running on thread DefaultDispatcher-worker-2 @coroutine#30
+ running on thread DefaultDispatcher-worker-5 @coroutine#32
+Updating on thread SDK 29 Main Thread @coroutine#32
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
