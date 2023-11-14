@@ -2000,9 +2000,6 @@ files:
         }
     }
   learner_created: false
-- name: src/main/java/org/hyperskill/photoeditor/filters.kt
-  visible: true
-  learner_created: true
 feedback_link: https://hyperskill.org/learn/step/18745#comment
 status: Solved
 feedback:

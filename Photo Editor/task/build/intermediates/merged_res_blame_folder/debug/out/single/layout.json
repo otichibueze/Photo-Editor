@@ -2,9 +2,5 @@
     {
         "merged": "org.hyperskill.photoeditor.Photo_Editor-task-mergeDebugResources-20:/layout/activity_main.xml",
         "source": "org.hyperskill.photoeditor.Photo_Editor-task-main-23:/layout/activity_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\org.hyperskill.photoeditor.Photo_Editor-task-mergeDebugResources-20:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\org.hyperskill.photoeditor.Photo_Editor-task-main-23:\\layout\\activity_main.xml"
     }
 ]

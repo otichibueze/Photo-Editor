@@ -1,19 +1,19 @@
-org.hyperskill.photoeditor.Photo_Editor-task-jetified-appcompat-resources-1.3.1-0 C:\Users\user\.gradle\caches\transforms-3\091947af17e537e0bde0f15aba402c26\transformed\jetified-appcompat-resources-1.3.1\res
-org.hyperskill.photoeditor.Photo_Editor-task-material-1.4.0-1 C:\Users\user\.gradle\caches\transforms-3\0c509a64767cb4a0bd9e3dc1c7e8784c\transformed\material-1.4.0\res
-org.hyperskill.photoeditor.Photo_Editor-task-fragment-1.3.6-2 C:\Users\user\.gradle\caches\transforms-3\228d0b5c1116f0ed649bfc319d44173f\transformed\fragment-1.3.6\res
-org.hyperskill.photoeditor.Photo_Editor-task-coordinatorlayout-1.1.0-3 C:\Users\user\.gradle\caches\transforms-3\23d175ee5221cb71089858ef261e7a8d\transformed\coordinatorlayout-1.1.0\res
-org.hyperskill.photoeditor.Photo_Editor-task-constraintlayout-2.1.3-4 C:\Users\user\.gradle\caches\transforms-3\2874ab1b7082d19e0a1a0de16ef124fe\transformed\constraintlayout-2.1.3\res
-org.hyperskill.photoeditor.Photo_Editor-task-jetified-viewpager2-1.0.0-5 C:\Users\user\.gradle\caches\transforms-3\431e3dc9098f6650e9e9ebb1dc54ece0\transformed\jetified-viewpager2-1.0.0\res
-org.hyperskill.photoeditor.Photo_Editor-task-cardview-1.0.0-6 C:\Users\user\.gradle\caches\transforms-3\47b34e5a10e413851af676ca6d2dcf20\transformed\cardview-1.0.0\res
-org.hyperskill.photoeditor.Photo_Editor-task-recyclerview-1.1.0-7 C:\Users\user\.gradle\caches\transforms-3\55387922e5aaf43632d9aa90407a7ae2\transformed\recyclerview-1.1.0\res
-org.hyperskill.photoeditor.Photo_Editor-task-jetified-annotation-experimental-1.1.0-8 C:\Users\user\.gradle\caches\transforms-3\61297bac5cf9605e877b9e9ad4b6e60b\transformed\jetified-annotation-experimental-1.1.0\res
-org.hyperskill.photoeditor.Photo_Editor-task-jetified-core-ktx-1.6.0-9 C:\Users\user\.gradle\caches\transforms-3\7aadfc68e1357d1d1ad5bb57e12ed3c6\transformed\jetified-core-ktx-1.6.0\res
-org.hyperskill.photoeditor.Photo_Editor-task-transition-1.2.0-10 C:\Users\user\.gradle\caches\transforms-3\906e7d84d6407e61ee2b9fdf86c5677e\transformed\transition-1.2.0\res
-org.hyperskill.photoeditor.Photo_Editor-task-appcompat-1.3.1-11 C:\Users\user\.gradle\caches\transforms-3\98bd4bdf9e8b1757f01d686be07bbc04\transformed\appcompat-1.3.1\res
-org.hyperskill.photoeditor.Photo_Editor-task-core-1.6.0-12 C:\Users\user\.gradle\caches\transforms-3\be1e8af53155b66328c90a0c97c9431f\transformed\core-1.6.0\res
-org.hyperskill.photoeditor.Photo_Editor-task-lifecycle-runtime-2.3.1-13 C:\Users\user\.gradle\caches\transforms-3\c853becf0e54a3af13bfdcfc6d5d63ff\transformed\lifecycle-runtime-2.3.1\res
-org.hyperskill.photoeditor.Photo_Editor-task-jetified-savedstate-1.1.0-14 C:\Users\user\.gradle\caches\transforms-3\db8248be52e670748ffc22d21e01f7bd\transformed\jetified-savedstate-1.1.0\res
-org.hyperskill.photoeditor.Photo_Editor-task-lifecycle-viewmodel-2.3.1-15 C:\Users\user\.gradle\caches\transforms-3\e998ec60f701c6b78580ea1da811639c\transformed\lifecycle-viewmodel-2.3.1\res
+org.hyperskill.photoeditor.Photo_Editor-task-jetified-annotation-experimental-1.1.0-0 C:\Users\user\.gradle\caches\transforms-3\038867e8487b58c4b6c60dfc9da79310\transformed\jetified-annotation-experimental-1.1.0\res
+org.hyperskill.photoeditor.Photo_Editor-task-jetified-core-ktx-1.6.0-1 C:\Users\user\.gradle\caches\transforms-3\13c88ac02d194ed79d4dc3c1f62d0579\transformed\jetified-core-ktx-1.6.0\res
+org.hyperskill.photoeditor.Photo_Editor-task-jetified-viewpager2-1.0.0-2 C:\Users\user\.gradle\caches\transforms-3\1a9f3753411cf52d01f2c0d8bd57664f\transformed\jetified-viewpager2-1.0.0\res
+org.hyperskill.photoeditor.Photo_Editor-task-lifecycle-runtime-2.3.1-3 C:\Users\user\.gradle\caches\transforms-3\1d573fd4b24eb662dccb49cbe8bff71f\transformed\lifecycle-runtime-2.3.1\res
+org.hyperskill.photoeditor.Photo_Editor-task-constraintlayout-2.1.3-4 C:\Users\user\.gradle\caches\transforms-3\386ba9eca7868c23b204a2ba0d54fa46\transformed\constraintlayout-2.1.3\res
+org.hyperskill.photoeditor.Photo_Editor-task-recyclerview-1.1.0-5 C:\Users\user\.gradle\caches\transforms-3\4a409b0c4d5ea98e1b38df39776f79db\transformed\recyclerview-1.1.0\res
+org.hyperskill.photoeditor.Photo_Editor-task-jetified-appcompat-resources-1.3.1-6 C:\Users\user\.gradle\caches\transforms-3\4be16293a0aa839d8a41c74f0b699a7e\transformed\jetified-appcompat-resources-1.3.1\res
+org.hyperskill.photoeditor.Photo_Editor-task-material-1.4.0-7 C:\Users\user\.gradle\caches\transforms-3\53025b1ca05e21dff699173048c6b8db\transformed\material-1.4.0\res
+org.hyperskill.photoeditor.Photo_Editor-task-coordinatorlayout-1.1.0-8 C:\Users\user\.gradle\caches\transforms-3\608816209d82cbcfb7287b41b17f7f64\transformed\coordinatorlayout-1.1.0\res
+org.hyperskill.photoeditor.Photo_Editor-task-appcompat-1.3.1-9 C:\Users\user\.gradle\caches\transforms-3\764ee9ecd2a7240342fcdc11f4ba326d\transformed\appcompat-1.3.1\res
+org.hyperskill.photoeditor.Photo_Editor-task-jetified-savedstate-1.1.0-10 C:\Users\user\.gradle\caches\transforms-3\7d82d4887c55ca0997999153bc7f87cc\transformed\jetified-savedstate-1.1.0\res
+org.hyperskill.photoeditor.Photo_Editor-task-cardview-1.0.0-11 C:\Users\user\.gradle\caches\transforms-3\88b3dcc01be16d6c352b25a64ed48018\transformed\cardview-1.0.0\res
+org.hyperskill.photoeditor.Photo_Editor-task-core-1.6.0-12 C:\Users\user\.gradle\caches\transforms-3\936dfdc2f52fc0231cd9fd934c3f2f56\transformed\core-1.6.0\res
+org.hyperskill.photoeditor.Photo_Editor-task-transition-1.2.0-13 C:\Users\user\.gradle\caches\transforms-3\c5876a7872ec04a867639b7a592022a2\transformed\transition-1.2.0\res
+org.hyperskill.photoeditor.Photo_Editor-task-lifecycle-viewmodel-2.3.1-14 C:\Users\user\.gradle\caches\transforms-3\e4771043e4b43275a11c1261728b1a1b\transformed\lifecycle-viewmodel-2.3.1\res
+org.hyperskill.photoeditor.Photo_Editor-task-fragment-1.3.6-15 C:\Users\user\.gradle\caches\transforms-3\ff56733de779aa5fd626fcc182fca7c3\transformed\fragment-1.3.6\res
 org.hyperskill.photoeditor.Photo_Editor-task-pngs-16 C:\Users\user\AndroidStudioProjects\Photo Editor\Photo Editor\task\build\generated\res\pngs\debug
 org.hyperskill.photoeditor.Photo_Editor-task-resValues-17 C:\Users\user\AndroidStudioProjects\Photo Editor\Photo Editor\task\build\generated\res\resValues\debug
 org.hyperskill.photoeditor.Photo_Editor-task-rs-18 C:\Users\user\AndroidStudioProjects\Photo Editor\Photo Editor\task\build\generated\res\rs\debug

@@ -31,7 +31,7 @@
 20        android:allowBackup="true"
 20-->C:\Users\user\AndroidStudioProjects\Photo Editor\Photo Editor\task\src\main\AndroidManifest.xml:14:9-35
 21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-21-->[androidx.core:core:1.6.0] C:\Users\user\.gradle\caches\transforms-3\be1e8af53155b66328c90a0c97c9431f\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+21-->[androidx.core:core:1.6.0] C:\Users\user\.gradle\caches\transforms-3\936dfdc2f52fc0231cd9fd934c3f2f56\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
 22        android:debuggable="true"
 23        android:hardwareAccelerated="false"
 23-->C:\Users\user\AndroidStudioProjects\Photo Editor\Photo Editor\task\src\main\AndroidManifest.xml:16:9-44
